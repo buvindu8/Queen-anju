@@ -29,7 +29,7 @@
 //Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
 //   * Created By GitHub: Mrrashmika
 //   * Credit To Janith Rashmika
-//   * © 2025 © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ-V4.
+//   * © 2025 © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ-V4
 // ⛥┌┤
 // */
 
